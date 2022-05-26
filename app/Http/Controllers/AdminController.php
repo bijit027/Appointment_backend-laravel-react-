@@ -51,9 +51,7 @@ class AdminController extends Controller
             return ["result"=>"Product has been delete "];
         }
         else{
-
             return ["result"=>"Operation failed "];
-
         }
 
     }
